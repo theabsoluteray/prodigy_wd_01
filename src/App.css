@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f4f4f4;
+  scroll-behavior: smooth;
+}
+
+.section {
+  height: 100vh;
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.home {
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  color: white;
+}
